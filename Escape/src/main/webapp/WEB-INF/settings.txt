@@ -1,0 +1,6 @@
+company=kosmo
+phone=0212345678
+ceo=김코스모
+email=kosmo@naver.com
+product_column_size=3
+uploadPath=image

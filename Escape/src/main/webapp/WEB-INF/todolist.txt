@@ -1,0 +1,53 @@
+# 샵은 주석입니다.
+home=com.escape.controller.HomeController
+#home=com.escape.controller.product.ProductThemaListController
+#
+# member section
+meLogin=com.escape.controller.member.MemberLoginController
+meLogout=com.escape.controller.member.MemberLogoutController
+meInsert=com.escape.controller.member.MemberInsertController
+meUpdate=com.escape.controller.member.MemberUpdateController
+meDetail=com.escape.controller.member.MemberDetailController
+meDelete1=com.escape.controller.member.MemberDelete1Controller
+meDelete2=com.escape.controller.member.MemberDelete2Controller
+meList=com.escape.controller.member.MemberListController
+#meIdmeResrv=com.escape.controller.member.MemberResrvController
+meResrv=com.escape.controller.member.MemberResrvController
+# board section
+#Q&A 게시판
+qboInsert=com.escape.controller.qboard.QBoardInsertController
+qboUpdate=com.escape.controller.qboard.QBoardUpdateController
+qboDelete=com.escape.controller.qboard.QBoardDeleteController
+qboDetail=com.escape.controller.qboard.QBoardDetailController
+qboList=com.escape.controller.qboard.QBoardListController
+qboReply=com.escape.controller.qboard.QBoardReplyController
+#
+#구해요&구했어요
+jboInsert=com.escape.controller.jboard.JBoardInsertController
+jboUpdate=com.escape.controller.jboard.JBoardUpdateController
+jboDelete=com.escape.controller.jboard.JBoardDeleteController
+jboDetail=com.escape.controller.jboard.JBoardDetailController
+jboList=com.escape.controller.jboard.JBoardListController
+#
+# comment section
+cmInsert=com.escape.controller.comment.CommentInsertController
+cmUpdate=com.escape.controller.comment.CommentUpdateController
+cmDelete=com.escape.controller.comment.CommentDeleteController
+cmList=com.escape.controller.comment.CommentListController
+#
+# product section
+prInsert=com.escape.controller.product.ProductInsertController
+prUpdate=com.escape.controller.product.ProductUpdateController
+prDelete=com.escape.controller.product.ProductDeleteController
+prAllList=com.escape.controller.product.ProductAllListController
+prDetail=com.escape.controller.product.ProductDetailController
+#prThemaList=com.escape.controller.product.ProductThemaListController
+#prReservation=com.escape.controller.product.ProductReservationController
+#
+# reserve section
+rvInsert=com.escape.controller.reserve.ReserveInsertController
+rvUpdate=com.escape.controller.reserve.ReserveUpdateController
+rvDelete=com.escape.controller.reserve.ReserveDeleteController
+rvHistory=com.escape.controller.reserve.ReserveHistoryController
+rvDetail=com.escape.controller.reserve.ReserveDetailController
+rvCalculate=com.escape.controller.reserve.ReserveCalculateController

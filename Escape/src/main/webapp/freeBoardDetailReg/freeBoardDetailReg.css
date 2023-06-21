@@ -1,0 +1,90 @@
+/**
+ * 페이지명 : 자유게시판 상세페이지 css
+ * 작성일자 : 2023-03-05
+ * 작성자 : 정영우
+ */
+
+@charset "UTF-8";@charset "UTF-8";
+
+	@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+	/*body {
+		font-family: 'Dongle', sans-serif;
+	} */
+	
+	/*나눔고딕*/
+	@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+/* 	font-weight: Regular; */
+/* 	font-weight: Bold; */
+/* 	font-weight: Extrabold; */
+	.span {
+	font-weight: Bold;
+	}
+	h1{
+		font-weight: Extrabold;	
+	}
+
+	
+	tr, th, td {border:1px solid #222; border-collapse:collapse; text-align:center; align:center; border-left: none;
+		border-right: none;
+		}
+		
+	.nickname {
+		outline:none; 
+		border-top-width: thin;
+		border-left-width: thin;
+		border-right-width: thin;
+		border-bottom-width: thin;
+		
+	}
+	
+	input:read-only {
+    background-color: #d3d3d3;
+	}
+
+	#subject, .regDt, .content{
+		outline:none; 
+		border-top-width: thin;
+		border-left-width: thin;
+		border-right-width: thin;
+		border-bottom-width: thin;
+		/* border-right:0px;
+		border-left:0px;
+		border-top:0px;
+		border-bottom:0px;  */
+		background-color:white;
+		
+	}	
+	table {border-top: none;border-collapse:collapse;}
+	th {
+		border-top: none;
+		height: 50px;
+		background-color: white;
+		border-bottom-color: #03D0B7;
+		border-top-color: white;
+		border-left: none;
+		border-right: none;
+	  }
+	  
+	body {
+		font-family: 'Nanum Gothic', sans-serif;
+		margin:0;
+	}
+	td {
+		border-collapse:collapse;
+		border-left: none;
+		border-right: none;
+		height: 50px;
+	}
+	.background1 {
+		margin-top: 0px;
+	    margin-right: 200px;
+	    margin-bottom: 100px;
+	    margin-left: 200px;
+	}
+	
+	
+	
+	
+	
+	
+	
